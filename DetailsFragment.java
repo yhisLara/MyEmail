@@ -1,6 +1,6 @@
-public class DetailsFraments extends Fragment{
+public class DetailsFrament extends Fragment{
 
-  public class DetailsFragments(){
+  public class DetailsFragment(){
   }
 
 public View onCreateView(LayoutInflater inflater, ViewGroup container,

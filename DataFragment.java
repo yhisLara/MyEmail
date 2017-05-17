@@ -1,6 +1,6 @@
-public class DataFragments extends Fragment{
+public class DataFragment extends Fragment{
 
-  public DataFragments(){
+  public DataFragment(){
   }
   
   public View onCreateView(LayoutInflater inflater, ViewGroup container,

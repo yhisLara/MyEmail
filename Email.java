@@ -33,7 +33,7 @@ public class email {
     return senderName;
   }
   
-  public void setSenderNae(String senderName){
+  public void setSenderName(String senderName){
     this.senderName = senderName;
   }
   
